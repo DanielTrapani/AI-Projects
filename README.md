@@ -5,10 +5,10 @@ These are some AI projects build in Colab, This cover the full process of buildi
 
 Most machine learning algorithms adhere to similar criteria, a framework we will also adopt here. This outline delineates the machine learning problem at hand and explores potential solutions.
 
-> [!1]
+> [!One]
 >Project Steps
 
->  [!2]
+>  [!Two]
 >State a hypothesis.
 
 > [!3]
