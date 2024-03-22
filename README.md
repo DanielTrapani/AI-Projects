@@ -4,12 +4,12 @@ These are some AI projects build in Colab, This cover the full process of buildi
 ## Machine learning project steps
 
 Most machine learning algorithms adhere to similar criteria, a framework we will also adopt here. This outline delineates the machine learning problem at hand and explores potential solutions.
-Project Steps
 
-State a hypothesis.
-Read the data.
-(If necessary) Validate the data to predict your target.
-Clean the data for ML.
-Pick an error metric.
-Split your data.
-Train a model.
+1.-Project Steps
+2.-State a hypothesis.
+3.-Read the data.
+4.-(If necessary) Validate the data to predict your target.
+5.-Clean the data for ML.
+6.-Pick an error metric.
+7.-Split your data.
+8.-Train a model.
