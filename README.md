@@ -5,26 +5,26 @@ These are some AI projects build in Colab, This cover the full process of buildi
 
 Most machine learning algorithms adhere to similar criteria, a framework we will also adopt here. This outline delineates the machine learning problem at hand and explores potential solutions.
 
-> [!One]
+
 >Project Steps
 
->  [!Two]
+
 >State a hypothesis.
 
-> [!3]
+
 >Read the data.
 
-> [!4]
+
 >(If necessary) Validate the data to predict your target.
 
-> [!5]
+
 >Clean the data for ML.
 
-> [!6] 
+
 >Pick an error metric.
 
-> [!7]
+
 >Split your data.
 
-> [!8]
+
 > Train a model.
